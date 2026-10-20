@@ -1,3 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 virus/eksamena_atbildes_Data/globalgamemanagers.assets filter=lfs diff=lfs merge=lfs -text
 sveta_mapite/svets_materials_nr1_Data/globalgamemanagers.assets filter=lfs diff=lfs merge=lfs -text
 aiva_linux/linux_build_laiva_Data/globalgamemanagers.assets filter=lfs diff=lfs merge=lfs -text
